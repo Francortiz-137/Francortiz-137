@@ -5,20 +5,18 @@ Soy Franco Ignacio Ortiz Cabrera, un Desarrollador con experiencia en creación 
 
 ## 😍 Algunas de mis habilidades:
 
-- Lenguajes de programación: Python, Java, C, C#, PHP, Javascript, TypeScript.
-- Frameworks: Spring Boot, Django, Laravel, Angular, Tensorflow, AutoML, Scrapy.
+- Lenguajes de programación: Python, Java, Javascript, TypeScript.
+- Frameworks: Spring Boot, Angular.
 - Metodologías ágiles, Scrum.
-- Programación orientada a objetos, orientada a eventos, serverless.
-- Cloud: Google Cloud Platform, AWS: Lambda functions, API gateway.
-- DBMS: MySQL, SQLite, PostgreSQL.
-- Control de versiones: Git, Github, GitLab, BitBucket.
-- Otras tecnologías: HTML, CSS, BOOTSTRAP, UML, BPM, API REST, JSON.
+- DBMS: MySQL, PostgreSQL.
+- Control de versiones: Git, Github.
+- Otras tecnologías: HTML, CSS, Bootstrap, API REST, JSON.
 
 ## 🌱 Mis objetivos para el futuro:
 
 - Continuar aprendiendo y creciendo como profesional en el desarrollo web y tecnologías relacionadas.
-- Explorar y profundizar mis conocimientos en el campo de la ciencia de datos y en el desarrollo full-stack.
-- Desarrollar aplicaciones web y proyectos de machine learning más complejos y desafiantes.
+- Explorar y profundizar mis conocimientos en el desarrollo full-stack.
+- Desarrollar aplicaciones web  más complejos y desafiantes.
 - Hacer un videojuego con mi grupo de amigos👾
 
 ## 💻 Algunos de mis proyectos:
