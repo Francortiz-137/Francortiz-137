@@ -12,7 +12,7 @@ Soy Franco Ignacio Ortiz Cabrera, un Desarrollador con experiencia en creación 
 - Cloud: Google Cloud Platform, AWS: Lambda functions, API gateway.
 - DBMS: MySQL, SQLite, PostgreSQL.
 - Control de versiones: Git, Github, GitLab, BitBucket.
-- Otras tecnologías: HTML, CSS, BOOTSTRAP, UML, BPM, API REST, SOAP, XML, JSON, AJAX, Android, GameMaker Studio2, Unity.
+- Otras tecnologías: HTML, CSS, BOOTSTRAP, UML, BPM, API REST, JSON.
 
 ## 🌱 Mis objetivos para el futuro:
 
