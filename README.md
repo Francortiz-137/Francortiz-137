@@ -43,6 +43,7 @@ Soy Franco Ignacio Ortiz Cabrera, un Desarrollador con experiencia en creación 
 - 🚢[Juego de estrategia "Salvo"](https://github.com/Francortiz-137/Salvo) - Implementado con Spring Boot.
 Gracias por visitar mi perfil de GitHub. ¡No dudes en contactarme!
 
+## 📲 Contacto: 
 🔗LinkedIn: [linkedin.com/in/franco-ortiz-cabrera/](https://linkedin.com/in/franco-ortiz-cabrera/)
 
 ✉️Correo electrónico: francortiz.c@gmail.com
